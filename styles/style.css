@@ -25,7 +25,7 @@ a {
 }
 
 main a {
-  border-bottom: 1px solid #853232;
+  border-bottom: 1px solid #636;
 }
 
 .gridContainer {
@@ -47,7 +47,7 @@ main a {
 
 header {
   grid-area: header;
-  background: linear-gradient(#c99 30%, #fff);
+  background: linear-gradient(#c9c 30%, #fff);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -61,7 +61,7 @@ header {
 .master-sporta-wrapper {
   width: fit-content;
   border-radius: 50%;
-  box-shadow: 4px 4px 15px #c66, -4px -4px 15px #c66;
+  box-shadow: 4px 4px 15px #636, -4px -4px 15px #636;
   padding: 10px;
   box-sizing: border-box;
   position: relative;
@@ -81,7 +81,7 @@ header {
 }
 
 .downloadBtn {
-  color: #c33;
+  color: #636;
   font-weight: bolder;
   font-style: italic;
   font-size: 24px;
@@ -190,20 +190,20 @@ main {
 }
 
 .SCADALevel {
-  background: linear-gradient(90deg, #c33 85%, white 85%);
+  background: linear-gradient(90deg, #636 85%, white 85%);
 }
 
 .EthernetLevel {
-  background: linear-gradient(90deg, #c33 65%, white 65%);
+  background: linear-gradient(90deg, #636 65%, white 65%);
 }
 
 .SEPAMLevel {
-  background: linear-gradient(90deg, #c33 75%, white 75%);
+  background: linear-gradient(90deg, #636 75%, white 75%);
 }
 
 .skillsHeader {
   font-size: 1.5em;
-  text-decoration: underline #c33;
+  text-decoration: underline #636;
   margin-bottom: 10px;
 }
 
@@ -253,7 +253,7 @@ main {
 .mainItemBlock li:before {
   display: inline-block;
   content: "- ";
-  color: #c33;
+  color: #636;
   font-size: 1.5em;
   vertical-align: baseline;
 }
@@ -268,13 +268,13 @@ a {
 }
 
 .important-info {
-  color: #c33;
+  color: #b537b5;
   font-weight: bolder;
   font-style: italic;
 }
 
 .education-block a {
-  color: #c33;
+  color: #b537b5;
   font-weight: bolder;
   font-style: italic;
 }
